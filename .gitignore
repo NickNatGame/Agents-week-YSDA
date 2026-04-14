@@ -1,0 +1,20 @@
+# Build directories
+new-env/
+
+# Object files / libs
+*.o
+*.a
+*.so
+*.env
+
+# Executables
+*.exe
+*.out
+main
+test_runner
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+.codex
