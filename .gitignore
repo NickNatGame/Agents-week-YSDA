@@ -1,11 +1,13 @@
 # Build directories
 new-env/
+data/
 
 # Object files / libs
 *.o
 *.a
 *.so
 *.env
+*.json
 
 # Executables
 *.exe
